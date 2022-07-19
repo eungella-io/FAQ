@@ -9,3 +9,5 @@
 4. [Git](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 5. [Contributing to Open Source on GitHub for beginners](https://iconoir.com/source/add-folder.svg)
+
+6. [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
