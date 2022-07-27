@@ -6,8 +6,6 @@
 
 3. [Configuring Dependabot security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/configuring-dependabot-security-updates)
 
-4. [Git](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+4. [Contributing to Open Source on GitHub for beginners](https://www.youtube.com/watch?v=k6KcaMffxac)
 
-5. [Contributing to Open Source on GitHub for beginners](https://iconoir.com/source/add-folder.svg)
-
-6. [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+5. [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
