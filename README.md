@@ -9,3 +9,5 @@
 4. [Contributing to Open Source on GitHub for beginners](https://www.youtube.com/watch?v=k6KcaMffxac)
 
 5. [Checking out pull requests locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+
+6. [Changing the stage of a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request)
